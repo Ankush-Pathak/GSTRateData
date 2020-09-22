@@ -1,0 +1,584 @@
+hSNCode,itemName,gST,rate
+0802.11.00,Almond (in shell; dried),12%,462
+0802.21.00,"Hazelnuts, filberts (in shell; dried)",12%,214
+0802.31.00,Walnet in shell - dried,12%,60
+0802.40.00,"Chestnuts, castanea spp (shelled or not; dried)",12%,86
+0802.50.00,Pistachios (shelled or not) - dried,12%,188
+0802.60.00,Macadamia (shelled or not; dried),12%,139
+0802.90.11,Arecanut/Betel nut dried,5%,383
+0804.00.00,"Dates, figs, pineapples, avocados, guavas, mangoes, and mangosteens, dried",12%,284
+0804.10.30,Hard dates (dry dates),12%,408
+0804.20.90,Dried Figs,12%,341
+0804.30.00,Pineapples - dried,12%,17
+0804.40.00,Avocados - dried,12%,104
+0804.50.00,"Guavas, mangoes and mangosteens - dried",12%,1
+0804.50.30,"Mangoes, sliced dried",12%,290
+0806.00.00,"Grapes, dried, and raisins",12%,110
+0806.20.00,Dried (including raisins),12%,271
+0806.20.10,Dried grapes (Raisins),12%,429
+0811.00.00,"Fruit and nuts, uncooked or cooked by steaming or boiling in water, frozen, whether or not containing added sugar or other sweetening matter.",5%,44
+0811.10.00,Strawberries,5%,383
+0811.10.10,Strawberries contained added sugar,5%,257
+0811.10.20,Straberries not sontained added sugar,5%,344
+0811.20.00,"Raspberries, blackberries, mulberries, loganberries, black, white or red currants andgooseberries (other than kiwi fruit)",5%,368
+0811.20.10,"Raspberries, blackberries, mulberries, loganberries, black, white or red currants andgooseberries (other than kiwi fruit) contained added sugar",5%,191
+0811.20.20,"Raspberries, blackberries, mulberries, loganberries, black, white or red currants andgooseberries (other than kiwi fruit) not sontained added sugar",5%,483
+0811.90.00,"Wild, cultivated cherries: sweet varieties, tart varieties",5%,43
+0811.90.10,"Wild, cultivated cherries: sweet varieties, tart varieties - Contained added sugar",5%,137
+0811.90.90,"Wild, cultivated cherries: sweet varieties, tart varieties - not sontained added sugar",5%,8
+0812.10.00,"Fruit and nuts, provisionally preserved (for example, by sulphur dioxide gas, in brine, in sulphur water or in other preservative solutions), but unsuitable in that state for immediate consumption.",5%,211
+0812.90.00,Mango slices in brine,5%,95
+0812.90.00,Other fruit and nuts (provisionally preserved by preservative solution),5%,285
+0813.00.00,"Fruit, dried, other than that of Heading 801 to 0806; mistures of nuts or dried fruits of Chapter 8",12%,334
+0813.10.00,"Apricots, prunes",12%,440
+0813.20.00,Dried prunes,12%,250
+0813.30.00,Apples,12%,23
+0813.40.00,Other fruit: wild blueberries,12%,217
+0813.40.20,Singoda whole (Water nut),12%,345
+0813.40.90,Otherdried fruits,12%,458
+0813.50.00,Mixtures of nuts or dried fruits of Chapter 8,12%,141
+0813.52.00,Mixtures of nuts or dried fruits - Containing only fruit,12%,43
+0813.54.00,Mixtures of nuts or dried fruits - Containing only nuts,12%,407
+0814.00.00,"Peel of citrus fruit or melons (including watermelons), frozen, dried or provisionally preserved in brine, in sulfur water or in other preservative solutions",5%,169
+0901.00.00,"Coffee, whether or not roasted or decaffeinated; coffee husks and skins; coffee substitutes containing coffee in any proportion, other than coffee beans not roasted.",5%,470
+0901.11.00,"Coffee (not roasted, not decaffeinated)",5%,475
+0901.12.00,"Coffee (not roasted, decaffeinated)",5%,376
+0901.21.00,"Coffee (roasted, not decaffeinated)",5%,351
+0901.22.00,"Coffee (roasted, decaffeinated)",5%,442
+0901.30.00,Coffee husks and skins,5%,433
+0901.40.00,Coffee substitutes containing coffee,5%,108
+0902.00.00,"Tea, whether or not flavoured, other than unporcessed green leaves of tea",5%,478
+0902.10.00,Green tea (not fermented) in immediate packings of a content not exceeding 3 (661 lb),5%,238
+0902.20.00,Other green tea (not fermented),5%,260
+0902.20.10,Green tea in packets with contents exceeding 3 Kg but not excedding 20 Kg,5%,86
+0902.20.20,Green Tea in bulk,5%,103
+0902.20.30,"Green tea agglomerated in forms such as ball, brick and tables",5%,135
+0902.20.40,Green tea waste,5%,241
+0902.30.00,"Black tea (fermented) and partly fermented tea, in immediate packings of a content not exceeding 3(661 lb)",5%,136
+0902.40.00,Other black tea (fermented) and other partly fermented tea,5%,436
+0903.00.00,Mate,5%,26
+0904.00.00,"Pepper of genus piper, dried or crushed or ground fruits of the genus Capsicum or of the genus pimenta",5%,444
+0904.11.00,Pepper neither crushed nor ground,5%,363
+0904.11.10,"Pepper, long",5%,259
+0904.11.20,Light black pepper,5%,478
+0904.11.30,"Black pepper, grabled",5%,413
+0904.11.40,Black pepper ungarbled,5%,346
+0904.11.50,"Green pepper, dehydrated",5%,342
+0904.11.60,Pepper pinheads,5%,309
+0904.11.70,"Green pepper, frozen or dried",5%,63
+0904.11.80,"Pepper other than green, forzen",5%,421
+0904.12.00,Pepper - Crushed or ground,5%,453
+0904.20.00,"Fruits of the genus capsicum (peppers) or of the genus pimenta (eg, allspice), dried or crushed or ground",5%,398
+0904.20.10,Dried chillies,5%,209
+0904.20.20,Chilly powder,5%,153
+0904.20.30,Fruits of the genus capsicum,5%,453
+0904.20.40,Chilly seed,5%,274
+0904.20.50,Jamaica pepper,5%,40
+0905.00.00,Vanilla,5%,200
+0905.00.10,Vanilla beans,5%,393
+0905.00.20,Vanilla powder,5%,90
+0906.00.00,Cinnamon and cinnamon-tree flowers,5%,443
+0906.11.00,Cinnamon (Cinnamomum zeylanicum Blume) Neither crushed nor ground,5%,304
+0906.11.10,Cinnamon bark Neither crushed nor ground,5%,471
+0906.11.20,Cinnamon tree flowers Neither crushed nor ground,5%,183
+0906.20.00,Cinnamon Crushed or ground,5%,494
+0907.00.00,"Cloves (whole fruit, cloves and stems)",5%,40
+0907.00.10,"Cloves (whole fruit, cloves and stems) , extracted",5%,169
+0907.00.20,"Cloves (whole fruit, cloves and stems) , not extracted",5%,259
+0908.00.00,"Nutmeg, mace and cardamoms",5%,64
+0908.10.10,Nutmeg in shell,5%,265
+0908.20.00,Mace,5%,360
+0908.30.00,Cardamoms,5%,127
+0909.00.00,"Seeds of anise, badian, fennel, coriander, cumin or caraway; juniper berries other than seed quality",5%,430
+0909.10.00,Seeds of Anise or badian,5%,370
+0909.20.00,Seeds of Coriander,5%,171
+0909.30.00,Seeds of cumin,5%,22
+0909.40.00,Seeds of caraway,5%,434
+0909.50.00,"Seeds of Chillie Seeds, fennel; juniper berries",5%,55
+0909.50.00,Seeds of fennel; juniper berries,5%,367
+0910.00.00,"Ginger other than fresh genger, saffron, tumeric (curcuma) other than fresh turmeric, thyme, bay leaves, curry and other spices",5%,231
+0910.10.20,Ginger Dried unbleached,5%,221
+0910.10.30,Ginger Dried Bleached,5%,281
+0910.10.40,Ginger Powder,5%,89
+0910.10.90,"Ginger, saffron, tumeric, thyme, bay leaves etc: Other",5%,107
+0910.20.00,Saffron,5%,265
+0910.20.10,Safdfron stigma,5%,432
+0910.20.20,Saffron stamen,5%,253
+0910.30.20,Turmeric dried,5%,44
+0910.30.30,Turmeric powder,5%,404
+0910.40.00,Thyme; bay leaves,5%,465
+0910.91.00,Mixtures referred to in note 1(b) to this chapter,5%,32
+0910.99.00,Other spices,5%,126
+0910.99.11,"Celery seed other than celeriac, mushrooms and truffles:",5%,322
+0910.99.12,Fenugreek ssed,5%,476
+0910.99.13,Dill seed,5%,353
+0910.99.14,Ajwain seed,5%,416
+0910.99.15,Cassia torea seed,5%,461
+0910.99.21,Cassia torea powder,5%,118
+0910.99.22,Cumin powder,5%,468
+0910.99.23,Celery powder,5%,302
+0910.99.24,Fenugreek powder,5%,96
+0910.99.25,Dill powder,5%,262
+0910.99.26,Poppy powder,5%,225
+0910.99.27,Mustard powder,5%,329
+0910.99.31,Cardamom husk,5%,357
+1103.00.00,"Ceral groats, meal and pellets, put up in unit container and bearing a registered brand name.",5%,74
+1103.11 .00,"Groats and meal, of wheat (put up in unit container and bearing a registered brand name)",5%,300
+1103.12.00,"Groats and meal, of oats (put up in unit container and bearing a registered brand name)",5%,180
+1103.13.00,Groats and meal of maize (corn) (put up in unit container and bearing a registered brand name),5%,310
+1103.14.00,Groats and meal of rice (put up in unit container and bearing a registered brand name),5%,406
+1103.19.00,"Groats and meal, of other cereals (cereal groats & meal excluding o f wheat, oats, maize and rice) (put up in unit container and bearing a registered brand name)",5%,262
+1103.21.00,"Groats and meal, Pellets of wheat (put up in unit container and bearing a registered brand name)",5%,275
+1103.29.00,"Groats and meal, of other cereals (pellets of cereals excluding those of wheat) (put up in unit container and bearing a registered brand name)",5%,250
+1104.00.00,"Cereal grains otherwise worked (for example, hulled, rolled, flaked, pearled, sliced or kibbled), except rice of heading 1006; germ of cereals, whole, rolled, flaked or ground [i.e. of oats, maize or other cereals]",5%,494
+1104.11.00,Rolled or flaked grains of barley,5%,12
+1104.12.00,Rolled or flaked grains of oats,5%,459
+1104.19.00,Rolled or flaked grains of other cereals,5%,222
+1104.21.00,"Other worked grains, of barley (hulled, pearled, sliced, kibbled)",5%,408
+1104.22.00,"Other worked grains, of oats (hulled, pearled, sliced, kibbled)",5%,265
+1104.23.00,"Other worked grains, of maize (corn, hulled, pearled, sliced, kibbled)",5%,355
+1104.29.00,"Other worked Other worked grains, of other cereals (hulled, pearled, sliced, kibbled)",5%,405
+1104.30.00,"Germ of cereals (whole, rolled, flaked or ground",5%,130
+1105.00.00,"Meal, powder, flakes, granules and pellets of potatoes",5%,456
+1106.00.00,"Meal and powder of the dried leguminous vegetables of heading 0713 (pulses) of sago or of roots of tubers of heading 0714 or of the products of Chapter 8 i.e. of tamarind of singoda, etc",5%,208
+1106.30.00,"Meal and powder of fruit, nuts, peel of citrus fruit or melons",5%,312
+1107.00.00,"Malt, whether or not roasted",18%,350
+1107.10.00,Malt (not roasted),18%,113
+1107.20.00,Malt (roasted),18%,466
+1108.00.00,"Starches, inulin",12%,471
+1108.11.00,Wheat starch,12%,253
+1108.12.00,Maize (corn) starch,12%,465
+1108.13.00,Potato starch,12%,367
+1108.14.00,Cassava (manioc) starch,12%,87
+1108.19.00,Starch; inulin - Other,12%,119
+1108.19.10,Starch; inulin - Other ; Sago,12%,272
+1108.19.90,Starch; inulin - Other ; Other,12%,493
+1108.20.00,Inulin,12%,398
+1109.00.00,"Wheat gluten, whether or not dried",5%,486
+1201.00.00,"Soybeans, whether or not broken: Other than of seed quality",5%,101
+1202.00.00,"Ground-nuts, not roasted or otherwise cooked, whether or not shelled or broken - other than of seed quality",5%,48
+1202.10.19,Ground-nuts (in shell; not roasted or otherwise cooked) - H.P.S. - other than of seed quality,5%,348
+1203.00.00,Copra,5%,450
+1204.00.00,"Linseed (Flaxseed), whether or not broken: other than of seed quality",5%,24
+1205.00.00,"Rape or colza seeds, whether or not broken: other than of seed quality",5%,126
+1206.00.00,"Sunflower seeds, whether or not broken : other than of seed quality",5%,413
+1207.00.00,"Other oil seeds and oleginous fruits (i.e. Plam nuts and kernels, cotton seeds, Castor oil seeds, Sesamum seeds, Mustard seeds, Saffower (Carthamus tinctorius) seeds, Melon seeds, Popply seeds, Ajams, Mango kernel, Niger seed, Kokam) whether or not broken: other than of seed quality",5%,418
+1207.10.90,Palm nuts and kernels (whether or not broken): other than of seed quality,5%,495
+1207.20.90,Cotton seeds: other than of seed quality,5%,274
+1207.30.90,Castor seeds: other than of seed quality,5%,376
+1207.40.90,Sesamum seeds : Other than of seed quality,5%,213
+1207.50.90,Mustard seeds : other than of seed quality,5%,426
+1207.60.90,Safflower (Carthamus tinctorius) seeds: other than of seed qulaity,5%,468
+1207.91.90,Poppy seeds: other than of seed quality,5%,76
+1207.92.90,"Shea nuts (karite nuts, whether or not broken) : other than of seed qulaity",5%,456
+1207.99.10,Ajams seeds: other than of seed quality,5%,323
+1207.99.20,Mango Kernel: other than of seed quality,5%,428
+1207.99.30,Nigar seed: other than of seed quality,5%,154
+1207.99.40,Kokam : other than of seed qulaity,5%,3
+1208.00.00,"Flour & meal of oil seeds or oleaginous fruits, other than thaose of mustard",5%,106
+1208.10.00,Flours and meal of soya beans,5%,296
+1208.90.00,"Flour & meal of oil seeds or oleaginous fruits, other than thaose of mustard : other",5%,87
+1210.10.00,"Hop cones, dried; whether or not ground,powdered or in the form of pellets; lupulin",5%,61
+1211.00.00,"Plants and parts of plants (including seeds and fruits), of a kind used primarily in perfumery, in pharmacy or for insecticidal, fungicidal or similar purpose, frozen or dried, whether or not cut, crushed or powdered",5%,123
+1211.10.00,"Liquorice roots, frozen or dried, whether or not cut, crushed or powdered",5%,306
+1211.20.00,"Ginseng roots , frozen or dried, whether or not cut, crushed or powdered",5%,323
+1211.90.11,"Ambrette seeds -frozen or dried, whether or not cut, crushed or powdered",5%,193
+1211.90.12,"Nuzvomica seeds -frozen or dried, whether or not cut, crushed or powdered",5%,175
+1211.90.13,"Psyllium (isobgul) seeds -frozen or dried, whether or not cut, crushed or powdered",5%,412
+1211.90.14,"Neem seeds -frozen or dried, whether or not cut, crushed or powdered",5%,116
+1211.90.15,"Jojoba seeds -frozen or dried, whether or not cut, crushed or powdered",5%,76
+1211.90.21,"Belladona leaves -frozen or dried, whether or not cut, crushed or powdered",5%,258
+1211.90.22,"Senna leaves and pods -frozen or dried, whether or not cut, crushed or powdered",5%,286
+1211.90.23,"Neem leaves and pods -frozen or dried, whether or not cut, crushed or powdered",5%,240
+1211.90.24,Gymnema Powder,5%,255
+1211.90.25,Cubeb Powder,5%,101
+1211.90.26,"Pyrethrum -frozen or dried, whether or not cut, crushed or powdered",5%,164
+1212.00.00,"Locust beans, seaweeds and other algae, sugar beet and sugar cane, frozen or dried, whether or not ground; fruit stones and kernels and other vegetable products (including unroasted chicory roots of the variety Cichorium intybus sativum) of a kind used primarily for human consumption, not elsewhare specified or included",5%,67
+1301.00.00,"Natural gums, resins, gum resins and oleoresins (for example balsams), other than lac and shellac.",5%,23
+1301.20.00,Gum arabic,5%,463
+1301.90.00,"Other natural gum, resins, gum-resins, balsams",5%,262
+1301.90.11,Asian gum,5%,88
+1301.90.12,African gum,5%,279
+1301.90.13,Asafoetida including compounded asafoetida,5%,79
+1301.90.21,Resins: Copal,5%,356
+1301.90.22,Resins: Dammar batu,5%,319
+1301.90.29,Resins: Other,5%,346
+1301.90.31,Gum resins:Myrrh,5%,59
+1301.90.32,Gum resins: Oilbanum or frankincense,5%,102
+1301.90.33,Gum resins: Mastic gum,5%,152
+1301.90.34,Gum resins: Xanthium gum,5%,227
+1301.90.39,Gum resins: other,5%,497
+1301.90.41,Oleoresins: of seeds,5%,361
+1301.90.42,Oleoresins: of fruit,5%,88
+1301.90.43,Oleoresins: of leaves,5%,224
+1301.90.44,Oleoresins: of spices,5%,493
+1302.00.00,Guar meal or guar gum refined split,5%,36
+1302.00.00,"Vegetable saps and extracts; pectinates and pectates; agar-agar and other mucilages and thickeners, whether or not modified, derived from vegetable products; other than Guar meal or guar gum refined split",18%,468
+1302.11.00,Vegetable saps and extract: Opium,18%,101
+1302.12.00,Vegetable Saps and extracts of liquorice,18%,268
+1302.13.00,Vegetable Saps and extracts of hops,18%,405
+1302.14.00,Saps and extracts of pyrethrum or of the roots containing rotenone,18%,199
+1302.19.00,"Vegetable saps and extracts (Ganja, Bhang): other",18%,177
+1302.19.11,"Extracts, of belladonna",18%,49
+1302.19.12,"Extracts, of cascara sagrada",18%,473
+1302.19.13,"Extracts, of nuxvomica",18%,196
+1302.19.14,"Extracts, of ginseng (including powder)",18%,331
+1302.19.15,"Extracts, of agarose",18%,392
+1302.19.16,"Extracts, of neem",18%,87
+1302.19.17,"Extracts, of gymnema",18%,179
+1302.19.18,"Extracts, of garcinia or gambodge",18%,329
+1302.19.19,"Extracts, other",18%,143
+1302.19.20,"Extracts, Cashew shell liquid (CNSL), crude",18%,412
+1302.19.30,"Extracts, Purified and distilled CNSL (Cardanol)",18%,191
+1302.20.00,"Pectic substances, pectinates and pectates",18%,291
+1302.31.00,"Mucilages and thickeners, whether or not modifed, derived from vetable products: Agar-agar",18%,262
+1302.32.10,"Mucilages and thickeners whetehr or not modified, derived from locust bean, locust bean seeds or guar seeds: Guar meal",5%,361
+1302.32.20,"Mucilages and thickeners whetehr or not modified, derived from locust bean, locust bean seeds or guar seeds: Guargum refined split",5%,201
+1302.32.30,"Mucilages and thickeners whetehr or not modified, derived from locust bean, locust bean seeds or guar seeds: Guargum treated and pulverised",5%,324
+1302.32.40,"Mucilages and thickeners whetehr or not modified, derived from locust bean, locust bean seeds or guar seeds: Kappa carrageenan",5%,292
+1302.32.90,"Mucilages and thickeners whetehr or not modified, derived from locust bean, locust bean seeds or guar seeds: other",5%,194
+1401.00.00,"Vegetable materials of kind used primarily for plaiting (for esample, bamboos, rattans, reeds, rushes, osier, raffia, cleaned, bleached or dyed cereal straw, and lime bark).",5%,360
+1401.10.00,Bamboos,5%,13
+1401.20.00,Rattans,5%,331
+1401.90.00,"Other vegetable plaiting materials (reed, rushes, osier, raffia, straw etc)",5%,288
+1401.90.10,Canes,5%,42
+1401.90.90,Reed,5%,495
+1404.00.00,"Vegetable products not elsewhere specified or included such as cotton linters. Cotton linters, Soap nuts, Hard seeds, pips, hulls and nuts, of kind used primarily for carving, coconut shell, unworked, Rudraksha seeds; other than Betel Leaves and Indian Katha",5%,421
+1404.10.00,Raw vegetable materials of a kind used in dyeing or tanning,5%,495
+1404.20.00,Cotton linters,5%,34
+1404.90.00,Other vegetable products,5%,244
+1404.90.10,Beedi leaves,5%,398
+1404.90.30,"Hard seeds, pips, hulls and nuts, of a kind used primarily for carving",5%,30
+1404.90.50,Indian Katha,18%,324
+1404.90.60,Coconut shell unworked,5%,26
+1404.90.70,Rudraksha seeds,5%,342
+1404.90.90,Leaf plates and leaf cups-pressed or stitched and loose and unstiched vistarakulu,5%,89
+1501.00.00,"Pig Fats (including lard) and poultry fat, other than that of heading 0209 or 1503",12%,194
+1502.00.00,"Fats of bovine animals, sheep or goats other than those of heading 1503",12%,181
+1502.00.10,"Mutton tallow: Fats of bovine animals, sheep or goats other than those of heading 1503",12%,388
+1502.00.20,"Fats, unrendered (excluding Mutton tallow): Fats of bovine animals, sheep or goats other than those of heading 1503",12%,156
+1502.00.10,"Rendered or solvent extraton fats: Fats of bovine animals, sheep or goats other than those of heading 1503",12%,468
+1502.00.10,"Other: Fats of bovine animals, sheep or goats other than those of heading 1503",12%,476
+1503.00.00,"Lard stearin, lard oil, oleo stearin, oleo-oil and tallow oil, not emulsified or mixed or otherwise prepared.",12%,338
+1504.00.00,"Fats & oils and their fractions, of fish or marine mammals, whether or not refined, but not chemically modified",12%,5
+1504.10.00,Fish liver oils and their fractions,12%,26
+1504.10.10,Cod liver oil : Fish liver oils and their fractions,12%,275
+1504.10.91,Squid liver oil : Fish liver oils and their fractions: Other,12%,125
+1504.20.00,"Fats and oils and their fractions of fish , other than liver oils",12%,470
+1504.20.10,"Fish body oil: Fats and oils and their fractions of fish , other than liver oils",12%,376
+1504.20.20,"Fish lipid oil: Fats and oils and their fractions of fish , other than liver oils",12%,130
+1504.20.30,"Sperm oil: Fats and oils and their fractions of fish , other than liver oils",12%,410
+1504.20.00,Fats and oils and their fractions of fish (other than liver oils),12%,351
+1504.30.00,Fats and oils and their fractions of marine mammals,12%,396
+1505.00.00,Wool grease & fatty substances derived therefrom (including lanolin),12%,170
+1505.10.00,Wool alcohol (including lanolin alcohol),12%,232
+1505.20.00,"Wool grease, crude",12%,189
+1505.90.00,"Other, wool grease and fatty substances derived therefrom",12%,8
+1506.00.00,"Other animal fats & oil and their fraction whether or not refined, but not chemically modified.",12%,321
+1506.00.10,"Neats Foot oil and fats from bone or waste: Other animal fats & oil and their fraction whether or not refined, but not chemically modified.",12%,388
+1506.00.90,"Other: Other animal fats & oil and their fraction whether or not refined, but not chemically modified.",12%,214
+1507.00.00,"Soya-bean oil and its fraction whether or not refined, but not chemically modified.",5%,476
+1507.10.00,Soya bean oil (crude oil),5%,448
+1507.90.10,Soya bean oil and its fractions (other than crude):,5%,402
+1507.90.10,Soyabean oil (Edible oil),5%,428
+1507.90.90,Soyabean oil (Vegetable oil),5%,134
+1508.00.00,"Ground-nut oil and its fraction whether or not refined, but not chemically modified.",5%,424
+1508.10.00,Ground-nut oil (crude oil),5%,211
+1508.90.00,Ground-nut oil and its fractions (other than crude oil),5%,122
+1508.90.91,Groundnut oil (Edible oil),5%,351
+1508.90.99,Groundnut oil (Vegetable oil),5%,481
+1509.00.00,"Olive oil & its fractions, whether or not refined, but not chemically modified",5%,426
+1509.10.00,Olive oil (crude oil),5%,67
+1509.90.00,Olive oil and its fractions (other than virgin),5%,170
+1509.90.10,Olive oil (Edible oil),5%,413
+1509.90.90,Olive oil (Vegetable oil),5%,321
+1510.00.00,"Other oils and thir fractions obtained solely from olives, whether or not refined, but not chemically modified, including blends of these oils or fractions with oils or fractions of heading 1509",5%,247
+1511.00.00,"Palm oil & its fractions, whether or not refined, but not chemically modified",5%,90
+1511.10.00,Palm oil (crude oil),5%,301
+1511.90.00,Palm oil and its fractions (other than crude oil),5%,466
+1511.90.10,Refined bleached deodorised palm oil,5%,217
+1511.90.20,Refined bleached deodorised palmolein,5%,133
+1511.90.90,Palmoil (Vegetable oil),5%,446
+1512.00.00,"Sunflower-seed, safflower or cottonseed oil, and fractions thereof, whether or not refined but not chemically modified",5%,233
+1512.11.00,"Sunflower-seed, safflower oil (crude oil)",5%,83
+1512.19.00,"Sunflower seed oil, safflower oil and their fractions (other than crude oil)",5%,377
+1512.19.10,Sunflower oil (Edible oil),5%,63
+1512.19.20,Sunflower oil (Vegetable oil),5%,220
+1512.19.30,Saffola oil (Edible oil),5%,94
+1512.19.40,Suffola oil (Vegetable oil),5%,373
+1512.21.00,Cotton-seed oil (crude oil),5%,106
+1512.29.00,Cotton seed oil (other than crude oil) and its fractions,5%,470
+1512.29.10,Cottonseed oil (Edible oil),5%,17
+1512.29.90,Cottonseed oil (Vegetable oil),5%,408
+1513.00.00,"Coconut (copra) , palm kernel or babassu oil and fractions thereof, whether or not refined, but not chemically",5%,237
+1513.11.00,Coconut (copra) oil (crude oil),5%,206
+1513.19.00,Other coconut oil and its fractions,5%,283
+1513.21.10,Palm kernel oil (Edible oil),5%,357
+1513.21.20,"Palm kernel oil, babassu oil (crude oil)",5%,18
+1513.29.20,Babassu oil (Edible),5%,178
+1513.29.30,"Palm kernel oil, babassu oil and its fractions (other than crude oil)",5%,296
+1514.00.00,"Rape, colza or mustard oil and fractions thereof, whether or not refined, but not chemically modified",5%,425
+1514.10.00,"Rape or colza oil, mustard oil (crude oil)",5%,374
+1514.19.10,Refined colza oil,5%,72
+1514.19.20,Refined rapeseed iuk,5%,448
+1514.90.00,"Rape or colza oil, mustard oil and their fractions (not crude oil)",5%,430
+1514.99.20,Refined Mustard oil,5%,215
+1515.00.00,"Other fixed vegetable fats and oils (including jojoba oil) and their fractions, whether or not refined, but not chemically modified",5%,367
+1515.11.00,Linseed oil (crude oil),5%,36
+1515.19.00,Linseed oil and its fractions (other than crude oil),5%,328
+1515.19.10,Linseed oil (Edible oil),5%,320
+1515.19.90,Linseed oil (Vegetable oil),5%,399
+1515.21.00,Maize oil (crude oil),5%,210
+1515.29.00,Maize oil and its fractions (other than crude oil),5%,68
+1515.29.10,Maize (corn) oil (Edible oil),5%,240
+1515.29.90,Maize (corn) oil (Vegetable oil),5%,327
+1515.30.00,Castor oil and its fractions,5%,45
+1515.30.10,Castor oil (Edible oil),5%,485
+1515.30.90,Castor oil (Vegetable oil),5%,473
+1515.40.00,Tung oil and its fractions,5%,160
+1515.50.00,Sesame oil and its fractions,5%,7
+1515.50.91,Sesame oil (Edible oil),5%,294
+1515.50.99,Sesame oil (Vegetable oil),5%,85
+1515.60.00,Jojoba oil and its fractions,5%,424
+1515.90.00,Other fixed vegetable fats and oils and their fractions,5%,348
+1515.90.10,"Fixed vegetable oils , namely the following: chlu moongra oil, mawra oil, kokam oil, tobacco seed oil sal oil",5%,453
+1515.90.20,"Fixed vegetable oils , namely the following: Neem seed oil, karanj oil, silk cotton seed oil, khakhon oil, watermelon oil, kusum oil, rubberseed oil, dhup oil, undi oil, maroti oil, pisa oil, nahar oil",5%,227
+1515.90.30,"Fixed vegetable oils , namely the following: Cardomom oil, chillies/capsicum oil, turmeric oil, ajwain seed oil, niger seed oil, garlic oil",5%,57
+1515.90.40,"Fixed vegetable oils of ediblegrade namely: Mango kernal oil, kahua oil, rice bran oil",5%,415
+1515.90.91,Other edible oils,5%,33
+1515.90.99,Other vegetable oils,5%,215
+1516.00.00,"Vegetable fats and oils and their fractions partly or wholly hydrogenated, interesterified or elaidinised, whether or not refined, but not further prepared.",5%,83
+1516.00.00,"Animal fats and oils and their fractions partly or wholly hydrogenated, interesterified or elaidinised, whether or not refined, but not further prepared.",12%,430
+1516.10.00,"Animal fats and oils and their fractions (hydrogenated, interesterified)",12%,445
+1516.20.00,Vegetable fats and oils and their fraction,5%,403
+1516.20.11,Cottonseed oil (Edible oil),5%,131
+1516.20.19,Cottonseed oil (Vegetable oil),5%,479
+1516.20.21,Groundnut oil(Edible oil),5%,318
+1516.20.29,Groundnut oil (Vegetable oil),5%,27
+1516.20.31,Castor oil (Edible oil),5%,396
+1516.20.39,Castor oil (Vegetable oil),5%,347
+1516.20.91,Other including vanaspati (Edible oil),5%,30
+1516.20.99,Other including vanaspati (Vegetable oil),5%,115
+1517.00.00,"Margarine, Linoxyn [solidified linseed oil]; edible mixtures or preparations of animal or vegitable fats or oils or of fractions of different fats or oils of the chapter, other than edible fats or oils or their fractions of heading 1516",18%,140
+1517.10.00,Margarine (excluding liquid margarine),18%,286
+1517.10.10,"Margarine (excluding liquid margarine), of animal origin",18%,383
+1517.10.21,"Margarine (excluding liquid margarine), of vegetable origin, edible grade",18%,241
+1517.10.21,"Margarine (excluding liquid margarine), of vegetable origin, Linoxyn",18%,429
+1517.90.10,Sal fat (processed or refined),18%,463
+1517.90.20,Peanut butter,18%,156
+1517.90.30,Imitation lard of animal origin,18%,92
+1517.90.40,Imitation lard of Vegetable origin,18%,332
+1517.90.00,Other edible mixtures or preparations of animal or vegetable fats or oils or of fractions,18%,98
+1518.00.00,"Vegetable fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or otherwise chemically modified, excluding those of heading 1516",5%,288
+1518.00.00,"Animal fats and oils and their fractions, boiled, oxidised, dehydrated, sulphurised, blown, polymerised by heat in vacuum or otherwise chemically modified, excluding those of heading 1516; inedible mixtures or preparations fo Animal or vegetable fats or oils or of fractions of different fats of oils of this chapter, not elsewhere specified of included.",12%,330
+1518.00.11,Linseed oil (Edible oil),5%,403
+1518.00.19,Linseed oil (Vegetable oil),5%,216
+1518.00.21,Castor oil (Edible oil),5%,206
+1518.00.29,Castor oil(Vegetable oil),5%,142
+1518.00.31,Other vegetable oil edible grade,5%,371
+1518.00.39,Other vegetable oil,5%,499
+1518.00.40,"Animal or vegetable fats boiled, oxidised, dehydrated etc.",12%,378
+1520.00.00,"Glycerol, crude; glycerol water and glycerol lyes",18%,219
+1521.00.00,"Vegetable waxes (other than triglycerides), Beeswax, othe insect waxes and spermaceti, whether or not refined or coloured",18%,73
+1521.10.00,Vegetable waxes,18%,417
+1521.90.00,"Beeswax, other insect waxes, spermaceti",18%,455
+1521.90.10,Bee Wax,18%,59
+1521.90.20,Shellac wax,18%,281
+1522.00.00,"Degras, residues from the treatment of fatty substances or animal or vegetable waxes",18%,141
+1522.00.10,Degras,18%,470
+1522.00.20,Soap stocks,18%,131
+1522.00.90,"Beeswax, other insect waxes, spermaceti: Other",18%,248
+1601.00.00,"Sausages and similar products, of meat, meat offal or blood; food preparations based on these products.",12%,244
+1602.00.00,"Other prepared or preserved meat, meat offal or blood",12%,372
+1602.10.00,"Homogenised preparations (of meat, offal meat or blood)",12%,393
+1602.20.00,"Homogenised preparations (of meat, offal meat or blood) - of liver of any animal",12%,424
+1602.31.00,Homogenised preparations: of polultry of heading 0105: of turkeys,12%,289
+1602.32.00,Homogenised preparations: of polultry of heading 0105: of fowls of species Gallus domesticus,12%,304
+1602.39.00,"Prepared or preserved meat, blood of poultry (excluding turkeys)",12%,41
+1602.41.00,Hams and cuts of swine (prepared or preserved),12%,3
+1602.42.00,Shoulders and cuts of swine (prepared or preserved),12%,175
+1602.49.00,"Prepared or preserved other meat, blood of swine (including mixtures)160250 meat, offal meat, blood of bovine animals (prepared or preserved)",12%,388
+1602.90.00,"Meat, offal, blood of other animals (prepared or preserved)",12%,131
+1603.00.00,"Extracts and juices of meat, fish or crustaceans, molluscs or other aquatic invertebrates.",12%,125
+1604.00.00,Prepared or preserved fish; caviar and caviar substitutes prepared from fish eggs,12%,3
+1604.11.00,Salmon (prepared or preserved),12%,427
+1604.12.00,Herrings (prepared or preserved),12%,377
+1604.13.00,"Sardines, sardinella, brisling, sprats (prepared or preserved)",12%,285
+1604.14.00,"Tunas, skipjack and bonito (sarda spp.) (prepared or preserved)",12%,274
+1604.15.00,Mackerel (prepared or preserved),12%,333
+1604.16.00,Anchovies (prepared or preserved),12%,468
+1604.19.00,Prepared or preserved other fish,12%,212
+1604.20.00,Other prepared or preserved fish (excluding whole or in pieces),12%,399
+1604.30.00,"Caviar, caviar substitutes prepared from fish eggs",12%,269
+1605.00.00,"Crustaceans, molluscs and other auatic invertebrates preapred or preserved",12%,188
+1605.10.00,Crab (preserved or prepared),12%,225
+1605.20.00,Shrimps and prawns (prepared or preserved),12%,332
+1605.30.00,Lobster (prepared or preserved,12%,394
+1605.40.00,Other crustaceans (prepared or preserved),12%,459
+1605.90.00,"Prepared or preserved molluscs, other aquatic invertebrates",12%,329
+1701.00.00,"Beet sugar, cane suggar, khandsari sugar",5%,87
+1701.00.00,"Refined sugar containing added flavouring or colouring matter, sugar cubes",18%,352
+1701.11.00,Cane sugar (raw sugar not added flavouring or coloring matter),5%,134
+1701.11.20,Khandasari Sugar,5%,84
+1701.12.00,Beet sugar (raw sugar not added flavouring or coloring matter),5%,19
+1701.91.00,"Cane or beet sugar, chemically pure sucrose(added flavouring or coloring matter)",18%,65
+1701.99.00,"Other cane or beet sugar, chemically pure sucrose",5%,482
+1701.99.10,Sugar Cubes,18%,45
+1702.00.00,Pallmyra sugar,5%,472
+1702.00.00,"All goods falling under 1702 [Lactose, maple syrup, glucose, dextrose, fructose, invert sugar, artificial honey etc.,] other than palmyra sugar",18%,135
+1702.10.00,"Lactose, lactose syrup",18%,310
+1702.20.00,"Maple sugar, maple syrup",18%,420
+1702.30.00,"Glucose, glucose syrup (fructose content in dry state less than 20%)",18%,299
+1702.30.10,"Glucose, liquid",18%,185
+1702.30.20,"Glucose, solid",18%,60
+1702.30.31,"Dextrose not contining fructose or containing in the dry state atleast 20% but less than 50% by wight of fructose, excluding invert sugar - Dextrose in solid form",18%,360
+1702.30.31,Dextrose not contining fructose or containing in the dry state less than 20% by wight of fructose - Dextrose in solid form,18%,263
+1702.30.39,Dextrose not contining fructose or containing in the dry state less than 20% by wight of fructose - other,18%,171
+1702.30.39,Dextrose not contining fructose or containing in the dry state less than 20% by wight of fructose - other,18%,487
+1702.40.00,"Glucose, glucose syrup (fructose content in dry state 20-50%)",18%,143
+1702.40.10,"Glucose, liquid",18%,16
+1702.40.20,"Glucose, solid",18%,288
+1702.50.00,Chemically pure fructose,18%,214
+1702.60.00,"Fructose, fructose syrup(fructose content in dry state more than 50%)170290 other sugars (including invert sugar)",18%,393
+1702.90.10,Palmyra Sugar,5%,136
+1703.00.00,Molasses resulting from the extraction or refining of sugar,28%,352
+1703.10.00,Cane molasses,28%,20
+1703.90.00,Molasses (excluding cane molasses),28%,282
+1703.90.10,Molasses (edible),28%,159
+1704.00.00,Sugar confection (including white chocolate and bubble/chewing gum).,18%,94
+1704.00.00,Chewing gum/bubble gum and white chocolate not containing cocoa,28%,145
+1704.10.00,Chewing gum,28%,96
+1704.90.00,"Other sugar confectionery, not containing cocoa: white chocolate",28%,136
+1704.90.10,Jelly confectionary,18%,157
+1704.90.20,"Boiled sweets, whether or not filled",18%,290
+1704.90.30,"Toffees, caramels and similar sweets",18%,407
+1801.00.00,"Cocoa beans, whole or broken, raw or roasted",5%,450
+1802 .00.00,"Cocoa shells, husks, skins and other cocoa waste",5%,140
+1803.00.00,"Cocoa paste, whether or not defatted",5%,172
+1803.10.00,Cocoa paste (not defatted),5%,17
+1803.20.00,Cocoa paste (wholly or partly defatted),5%,22
+1804.00.00,"Cocoa butter,fat and oil",28%,425
+1805.00.00,"Cocoa powder, not containing added sugar or other sweetening matter",28%,154
+1806.00.00,Chocolate & other food preparations containing cocoa,28%,266
+1806.10.00,Cocoa powder (containing added sugar or other sweetening matter),28%,26
+1806.20.00,Other preparations,28%,116
+1806.31.00,"Food preparations containing cocoa (in block, slab, bar form; filled)",28%,476
+1806.32.00,"Food preparations containing cocoa (in block, slab, bar form; not filled)",28%,234
+1806.90.00,"Cocoa preparations (in containers, packings, in liquid, powder, granular form)",28%,382
+1806.90.10,Chocolate & chocolate products,28%,321
+1806.90.20,Sugar confectionery containing cocoa,28%,16
+1806.90.30,Spreads containing cocoa,28%,325
+1806.90.40,Preparations ontaining cocoa for making beverages,28%,105
+1806.90.90,"Cocoa preparations (in containers, packings, in liquid, powder, granular form): Other",28%,157
+1900.00.00,"Malt extract; food preparations of flour, groats, meal, starch or malt extract, not containing cocoa or containing less than 40% by weight of cocoa calculated on a totally defatted basis, not elsewhere specified or included; food preparations of goods of heading 0401 to 0404, not containing cocoa or containing less than 5% by weight of cocoa calculated on a totally deffatted basis not elsewhere specified or included, other than preparations for infant use put up for retail sale and mixes and doughs for the preparation of baker's wares",28%,312
+1901.00.00,"Preparations for infant use, put up for retail sale",18%,204
+1901.00.00,"Mixes and doughs for preparation of bread, pastry and other baker's wares",5%,479
+1902.00.00,"Pasta, whether or not cooked or stuffed (with meat or other substances) or otherwise prepared, such as spaghetti, macaroni, noodles, lasagne, gnocchi, ravioli, cannelloni; couscous, whether or not prepared.",18%,278
+1902.00.00,Seviyan (vermicelli),5%,266
+1902.11.00,Pasta (uncooked; containing eggs),18%,27
+1902.19.00,Pasta (uncooked; not containing eggs),18%,152
+1902.20.00,Stuffed pasta,18%,409
+1902.30.00,Other pasta,18%,12
+1902.40.00,Couscous,18%,423
+1903.00.00,"Tapioca and substitutes therefor prepared from starch, in the form of flakes, grains, pearls, siftings or in similar forms. (sabudana)",5%,398
+1904.10.00,"Corn flakes, bulgar wheat, prepared foods obtained from cerealflakes",18%,313
+1904.10.10,Corn flakes,18%,439
+1904.90.00,Prepared cereals in grain form (other than corm),18%,214
+1905.32.00,Waffles and wafers other than coated with chocolate or containing chocolate,18%,194
+1905.32.00,Waffles and wafers coated with chocolate,28%,355
+1905.40.00,"Rusks, toasted bread, similar toasted products",5%,168
+1905.90.10,Pastries and cakes,18%,369
+2001.00.00,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid",18%,218
+2001.10.00,Cucumbers and gherkins (prepared or preserved by vinegar acetic acid)200120 onions (prepared or preserved by vinegar or acetic acid),18%,265
+2001.90.00,"Vegetables, fruit, nuts and other edible parts of plants, prepared or preserved by vinegar or acetic acid: Other",18%,78
+2002.00.00,Tomatoes prepared or preserved otherwise than by vinegar or acetic acid,18%,268
+2002.10.00,"Tomatoes, whole or in pieces (prepared or preserved; excluding by vinegar)",18%,41
+2002.90.00,"Other tomatoes, prepared or preserved (other than by vinegar, acetic acid)",18%,2
+2003.00.00,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid",18%,85
+2003.10.00,"Mushrooms of the genus Agaricus (prepared or preserved; other than by vinegar, acetic acid)",18%,392
+2003.20.00,"Truffles (prepared or preserved; other than by vinegar, acetic acid)",18%,14
+2003.90.00,"Mushrooms and truffles, prepared or preserved otherwise than by vinegar or acetic acid-other---other",18%,97
+2004.00.00,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, frozen, other than products of heading 2006 .",18%,427
+2004.10.00,"Potatoes (prepared or preserved; other than by vinegar, acetic acid)",18%,168
+2004.90.00,Other vegetables and mixtures of vegetable (prepared or preserved; frozen),18%,318
+2005.00.00,"Other vegetables prepared or preserved otherwise than by vinegar or acetic acid, not frozen, other than products of heading 2006",18%,128
+2005.10.00,"Homogenised vegetables, prepared or preserved (excluding by vinegar)",18%,137
+2005.20.00,"Potatoes, prepared or preserved (excluding by vinegar or acetic acid; not frozen)",18%,265
+2005.30.00,"Sauerkraut, prepared or preserved (excluding by vinegar; not frozen)",18%,160
+2005.40.00,"Peas, prepared or preserved (excluding by vinegar, acetic acid, not frozen)",18%,62
+2005.40.00,"Peas, prepared or preserved (excluding by vinegar, acetic acid, not frozen)",18%,164
+2005.51.00,"Shelled beans, prepared or preserved (excluding by vinegar; not frozen)",18%,272
+2005.59.00,"Other beans, prepared or preserved (excluding by vinegar; not frozen)",18%,312
+2005.59.00,"Other beans, prepared or preserved (excluding by vinegar; not frozen)",18%,458
+2005.60.00,"Asparagus, prepared or preserved",18%,358
+2005.70.00,"Olives, prepared or preserved (excluding by acetic acid; not frozen)",18%,308
+2005.70.00,"Olives, prepared or preserved (excluding by acetic acid; not frozen)",18%,20
+2005.80.00,"Sweet corn, prepared or preserved (excluding by acetic acid; not frozen)",18%,132
+2005.90.00,"Other vegetables and mistures of vegetables, prepared or preserved (excluding by vinegar; not frozen)",18%,72
+2005.91.00,"Bamboo shoots, prepared or preserved (excluding by acetic acid; not frozen)",18%,267
+2006.00.00,"Vegetables, fruits, nuts, fruit-peel and other parts of plants, preserved by sugar(drained, glace or Crystallised)",18%,295
+2007.00.00,"Jams, fruit jellies, marmalades, fruit ornut puree and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter .",18%,229
+2007.10.00,"Homogenised preparations of Jams, fruit jellies, marmalades, fruit ornut puree and fruit or nut pastes, obtained by cooking, whether or not containing added sugar or other sweetening matter .",18%,174
+2007.91.00,"Jams, fruit jellies, marmalades, puree, paste of citrus fruit",18%,56
+2007.99.00,"Jams, jellies, puree, paste of fruit (other than citrus fruit), nuts",18%,207
+2008.00.00,"Fruit, nuts and other edible parts of plants, otherwise prepared or preserved, whether or not containing added sugar or other sweetening matter or spirit, not elsewhere specified or included ; such as ground - nuts Cashew nut, roated, salted or roated and salted , other roasted nuts and seeds, squash of Mango, Lemon, Orange, Pineapple or other fruits.",18%,216
+2008.11.00,Ground-nuts (prepared or preserved),18%,94
+2008.19.00,"Other nuts, seeds (prepared or preserved; including mixtures)",18%,352
+2008.19.10,"Cashew nut, roasted, saltdd or roasted and salted",18%,65
+2008.19.20,Other roasted nuts and seeds,18%,235
+2008.19.30,"Other nuts, otherwise rpepared or preserved",18%,321
+2008.19.40,Other roasted and fried vegetable products,18%,123
+2008.20.00,Pineapples (otherwise prepared or preserved),18%,264
+2008.30.00,Citrus fruit (otherwise prepared or preserved),18%,340
+2008.40.00,Pears (otherwise prepared or preserved),18%,417
+2008.50.00,Apricots (otherwise prepared or preserved),18%,335
+2008.60.00,Cherries (otherwise prepared or preserved),18%,124
+2008.70.00,Peaches (otherwise prepared or preserved),18%,85
+2008.80.00,Strawberries (otherwise prepared or preserved),18%,147
+2008.91.00,Palm hearts (otherwise prepared or preserved),18%,500
+2008.92.00,"Mixtures of fruit, nuts (otherwise prepared or preserved)",18%,215
+2008.99.00,"Other fruit, nuts, edible parts of plants (otherwise prepared, preserved)",18%,70
+2009.00.00,"Fruit juices (including grape must) and vegetable juices, unfermented and not containing added spirit, whether or not containing added sugar or othersweetening matter.",12%,302
+2009.11.00,Orange juice (frozen),12%,476
+2009.19.00,Orange juice (other than frozen),12%,496
+2009.20.00,Grapefruit juice,12%,10
+2009.30.00,Juice of any other single citrus fruit,12%,63
+2009.40.00,Pineapple juice,12%,161
+2009.50.00,Tomato juice,12%,54
+2009.60.00,Grape juice (including grape must),12%,70
+2009.70.00,Apple juice,12%,29
+2009.80.00,Juice of any other single fruit or vegetable,12%,495
+2009.90.00,"Mixtures of juice (of fruit, vegetable)",12%,322
+2101.00.00,"Extracts, essences and concentrates, of coffee, and preparations with a basis of these extracts, essences or concentrates or with a basis of coffee (i.e. instant coffee, coffee aroma etc)",28%,191
+2101.20.00,"Extracts, essences and concentrates, of toa or mate, and preparations with a basis of these extracts, essences or concentrates or with a basis of tea or mate (i.e. instant tea, quick black tea, tea aroma, etc.)",18%,98
+2101.10.00,"Extracts, essences, concentrates of coffee, thereof preparations",28%,496
+2101.11.10,"Instant coffee, flavoured",28%,402
+2101.11.20,Instant Coffee,28%,350
+2101.11.20,"Instant coffee, not flavoured",28%,434
+2101.11.30,Coffee aroma,28%,321
+2101.20.00,"Extracts, essences, concentrates of tea or mate, thereof preparations",18%,21
+2101.20.10,Instant tea,18%,208
+2101.20.20,Quick brewing black tea,18%,85
+2101.20.30,Tea aroma,18%,181
+2101.30.00,Roasted chicory,12%,133
+2101.30.00,Roasted coffee substitutes,12%,346
+2101.30.00,"Roasted chicory & other coffee substitutes & extracts, essences & concentrates thereof",12%,169
+2102.00.00,Yeasts and prepared baking powders.,12%,275
+2102.10.00,Active yeasts,12%,385
+2102.10.10,Culture yeast,12%,329
+2102.10.20,Baker's yeast,12%,161
+2102.10.90,Other (yeast),12%,241
+2102.20.00,"Inactive yeasts, other single-cell micro-organisms (dead)",12%,446
+2102.30.00,Prepared baking powders,12%,126
+2103.00.00,Sauces and preparations therefor.,18%,399
+2103.00.00,"Mixedcondiments and mixed seasonings;mustard flour and meal and prepared mustard, other sauces and preparations therefor.",28%,490
+2103.10.00,Soya sauce,18%,144
+2103.20.00,"Tomato ketchup, other tomato sauces",18%,479
+2103.30.00,"Mustard flour, meal, prepared mustard",28%,388
+2103.90.00,"Other sauces and preparations therefor,mixed condiments, mixed seasoning",28%,190
+2103.90.10,"Paste of onion, ginger or garlic and similar other paste and combination thereof including curry paste whether or not sold in sealed container",28%,460
+2103.90.20,Chilli sauce,12%,122
+2103.90.30,Mayonnaise and salad dressings,28%,309
+2103.90.40,Mixed condiments and mixed seasoning,28%,14
+2104.00.00,Soups and broths and preparations therefor; homogenised composite food preparations.,18%,133
+2104.10.10,Soups and broths and preparations therefor: Dried,18%,372
